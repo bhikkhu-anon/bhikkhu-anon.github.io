@@ -1,0 +1,45 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  theme: {
+    extend: {
+      typography: () => ({
+        custom: {
+          css: {
+            "--tw-prose-body": "var(--color-base-content)",
+            "--tw-prose-headings": "var(--color-base-content)",
+            "--tw-prose-lead": "var(--color-base-content)",
+            "--tw-prose-links": "var(--color-base-content)",
+            "--tw-prose-bold": "var(--color-base-content)",
+            "--tw-prose-counters": "var(--color-base-content)",
+            "--tw-prose-bullets": "var(--color-base-content)",
+            "--tw-prose-hr": "var(--color-base-content)",
+            "--tw-prose-quotes": "var(--color-base-content)",
+            "--tw-prose-quote-borders": "var(--color-base-content)",
+            "--tw-prose-captions": "var(--color-base-content)",
+            "--tw-prose-code": "var(--color-base-content)",
+            "--tw-prose-pre-code": "var(--color-base-content)",
+            "--tw-prose-pre-bg": "var(--color-base-content)",
+            "--tw-prose-th-borders": "var(--color-base-content)",
+            "--tw-prose-td-borders": "var(--color-base-content)",
+            "--tw-prose-invert-body": "var(--color-base-content)",
+            "--tw-prose-invert-headings": "var(--color-base-content)",
+            "--tw-prose-invert-lead": "var(--color-base-content)",
+            "--tw-prose-invert-links": "var(--color-base-content)",
+            "--tw-prose-invert-bold": "var(--color-base-content)",
+            "--tw-prose-invert-counters": "var(--color-base-content)",
+            "--tw-prose-invert-bullets": "var(--color-base-content)",
+            "--tw-prose-invert-hr": "var(--color-base-content)",
+            "--tw-prose-invert-quotes": "var(--color-base-content)",
+            "--tw-prose-invert-quote-borders": "var(--color-base-content)",
+            "--tw-prose-invert-captions": "var(--color-base-content)",
+            "--tw-prose-invert-code": "var(--color-base-content)",
+            "--tw-prose-invert-pre-code": "var(--color-base-content)",
+            "--tw-prose-invert-pre-bg": "rgb(0 0 0 / 50%)",
+            "--tw-prose-invert-th-borders": "var(--color-base-content)",
+            "--tw-prose-invert-td-borders": "var(--color-base-content)",
+          },
+        },
+      }),
+    },
+  },
+};

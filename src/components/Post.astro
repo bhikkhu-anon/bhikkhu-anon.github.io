@@ -1,0 +1,20 @@
+---
+import { render } from "astro:content";
+import FormattedDate from "./FormattedDate.astro";
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+---
+
+<article>
+  <h3 class="font-serif text-3xl font-medium text-base-content">
+    {post.data.title}
+  </h3>
+  <h5 class="text-base-content/40">
+    <FormattedDate date={post.data.pubDate} />
+  </h5>
+  <div>{post.tags}</div>
+  <div class="mt-2 prose max-w-none prose-lg prose-custom">
+    <Content />
+  </div>
+</article>
