@@ -11,10 +11,10 @@ I emphasize _might_ due to the conditional tone in AN 9.34:
 
 > **<u>If</u>**, as he remains there, he is beset with attention to perceptions dealing with sensuality, that is an affliction for him.
 
-#### Akusala dhammas and the first jhāna
+#### Akusalā dhammā and the first jhāna
 
-One thing worth nothing is that the four other nivaranas are not mentioned at all. I take this to mean that, unlike sensuality, the other nivaranas are really 'far' from a mind that is abiding in the first jhāna.
+One thing worth nothing is that the four other nīvaraṇa are not mentioned at all. I take this to mean that, unlike sensuality, these other hindrances are really 'far' from a mind that is abiding in the first jhāna.
 
-The other nivaranas would be like ink spilled on white paper; their "vibe" and feeling tone would really stand out from the pleasure of the first jhāna.
+The other nīvaraṇas would be like ink spilled on white paper; their "vibe" and feeling tone would really stand out from the pleasure of the first jhāna.
 
 Kāma, on the other hand, because of its intrinsically pleasurable nature, can blend in more easily with the pleasure and 'happy vibe' of the first jhāna. One becomes intoxicated by pleasure, and this intoxication/rapture leaves the door open, at least slightly, to sensuality, which will keep trying to bait the mind.
